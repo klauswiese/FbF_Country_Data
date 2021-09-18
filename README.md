@@ -3,19 +3,17 @@
 \| [`Perú`](#perú) \| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \|
 [`Simbología`](#simbologías) \| 
 
+# Guatemala
+
+| # | Servidor | Organización | Alcance | Utilidad |
+| :---: | :--- | :--- | :--- |  :--- | 
+| 1 | [Datos Espaciales Guatemala](https://rmgir.proyectonesoamerica.org/index.php) |  | Regional - CA | |
 
 # Perú
 
 | # | Servidor | Organización | Alcance | Utilidad |
 | :---: | :--- | :--- | :--- |  :--- | 
 | 1 | [Datos Espaciales Perú](https://sigrid.cenepred.gob.pe/sigridv3/mapa) | SIGRID | Nacional | |
-
-
-# Guatemala
-
-| # | Servidor | Organización | Alcance | Utilidad |
-| :---: | :--- | :--- | :--- |  :--- | 
-| 1 | [Datos Espaciales Guatemala](https://rmgir.proyectonesoamerica.org/index.php) |  | Regional - CA | |
 
 # Honduras
 
