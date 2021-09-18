@@ -19,9 +19,11 @@
 
 # Honduras
 
-+ [Datos Espaciales AMDC](https://amdc.giscloud.com/)
-+ [Datos Espaciales Instituto de Conservación Forestal](https://sigmof.icf.gob.hn/?page_id=4703)
-+ [Datos Espaciales OUOT - FACES - UNAH](https://geoportalouot.unah.edu.hn/layers/?limit=10&offset=0)
+| # | Servidor | Organización | Alcance | Utilidad |
+| :---: | :--- | :--- | :--- |  :--- | 
+| 1 | [Datos Espaciales AMDC](https://amdc.giscloud.com/) | AMDC | Local - Municipal | Visor |
+| 2 | [Datos Espaciales Instituto de Conservación Forestal](https://sigmof.icf.gob.hn/?page_id=4703) | ICF | Nacional | Visor y descarga | 
+| 3 | [Datos Espaciales OUOT - FACES - UNAH](https://geoportalouot.unah.edu.hn/layers/?limit=10&offset=0) | [FACES-UNAH](https://cienciasespaciales.unah.edu.hn/institutos/ouot/) | Nacional | Visor y Descarga |
 
 
 # Simbologías
