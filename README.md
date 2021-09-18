@@ -1,19 +1,21 @@
 # FbF_Country_Data
 
 \| [`Perú`](#perú) \| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \|
-[`Simbología`](#simbologias) \| 
+[`Simbología`](#simbologías) \| 
 
 
 # Perú
 
 | # | Servidor | Organización | Alcance |
 | :---: | :--- | :--- | :--- | 
-| 1 | [Datos Espaciales Perú](https://sigrid.cenepred.gob.pe/sigridv3/mapa) | SIGRID | Nacional  |
+| 1 | [Datos Espaciales Perú](https://sigrid.cenepred.gob.pe/sigridv3/mapa) | SIGRID | Nacional |
 
 
 # Guatemala
 
-+ [Datos Espaciales Guatemala](https://rmgir.proyectonesoamerica.org/index.php)
+| # | Servidor | Organización | Alcance |
+| :---: | :--- | :--- | :--- | 
+| 1 | [Datos Espaciales Guatemala](https://rmgir.proyectonesoamerica.org/index.php) |  | Regional - CA |
 
 # Honduras
 
