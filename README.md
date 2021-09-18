@@ -28,4 +28,6 @@
 
 # Otros datos
 
-[Simbologias](https://github.com/qgispe/Symbology-Hub)
+| # | Datos | Fuente | 
+| :---: | :--- | :--- |  
+|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | |
