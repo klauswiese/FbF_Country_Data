@@ -27,4 +27,4 @@
 
 | # | Datos | Fuente | 
 | :---: | :--- | :--- |  
-|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | QGIS Perú|
+|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | [QGIS Perú](https://qgis.pe/)|
