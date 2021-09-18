@@ -26,6 +26,6 @@
 
 
 
-# Simbologías
+# Otros datos
 
 [Simbologias](https://github.com/qgispe/Symbology-Hub)
