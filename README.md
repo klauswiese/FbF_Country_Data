@@ -21,8 +21,8 @@
 
 | # | Servidor | Organización | Alcance | Utilidad |
 | :---: | :--- | :--- | :--- |  :--- | 
-| 1 | [Datos Espaciales AMDC](https://amdc.giscloud.com/) | AMDC | Local - Municipal | Visor |
-| 2 | [Datos Espaciales Instituto de Conservación Forestal](https://sigmof.icf.gob.hn/?page_id=4703) | ICF | Nacional | Visor y descarga | 
+| 1 | [Datos Espaciales AMDC](https://amdc.giscloud.com/) | [AMDC](https://www.amdc.hn/) | Local - Municipal | Visor |
+| 2 | [Datos Espaciales Instituto de Conservación Forestal](https://sigmof.icf.gob.hn/?page_id=4703) | [ICF](https://icf.gob.hn/) | Nacional | Visor y descarga | 
 | 3 | [Datos Espaciales OUOT - FACES - UNAH](https://geoportalouot.unah.edu.hn/layers/?limit=10&offset=0) | [FACES-UNAH](https://cienciasespaciales.unah.edu.hn/institutos/ouot/) | Nacional | Visor y Descarga |
 
 
