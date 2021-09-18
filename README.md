@@ -23,11 +23,8 @@
 | :---: | :--- | :--- | :--- |  :--- | 
 | 1 | [Datos Espaciales Perú](https://sigrid.cenepred.gob.pe/sigridv3/mapa) | SIGRID | Nacional | |
 
-
-
-
 # Otros datos
 
 | # | Datos | Fuente | 
 | :---: | :--- | :--- |  
-|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | |
+|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | QGIS Perú|
