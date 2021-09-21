@@ -13,6 +13,11 @@
 | :---: | :--- | :--- | :--- |  :--- | 
 | 1 | [Datos Espaciales Argentina](https://www.idera.gob.ar/index.php?option=com_content&view=article&id=335:geoservicios&catid=33:services&Itemid=302) | IDERA | Nacional | Servicios WMS/WFS|
 
+# Ecuador
+
+| # | Servidor | Organización | Alcance | Utilidad |
+| :---: | :--- | :--- | :--- |  :--- | 
+| 1 | [Datos Espaciales Ecuador](https://sni.gob.ec/coberturas) | SNI | Nacional | |
 
 # Guatemala
 
