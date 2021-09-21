@@ -1,4 +1,9 @@
-# FbF_Country_Data
+[![Project Status](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/klauswiese/FbF_Country_Data/commits)
+![](https://visitor-badge.laobi.icu/badge?page_id=klauswiese.klauswiese/FbF_Country_Data) 
+
+# FbF Country Data
 
 \| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \| [`Nicaragua`](#nicaragua) \| [`Perú`](#perú) \| [`Otros Datos`](#otros-datos) \| 
 
