@@ -8,6 +8,11 @@
 | # | Servidor | Organización | Alcance | Utilidad |
 | :---: | :--- | :--- | :--- |  :--- | 
 | 1 | [Datos Espaciales Guatemala](https://rmgir.proyectonesoamerica.org/index.php) |  | Regional - CA | |
+| 2 | [Inundación 10 Años Período de Retorno](Floods/GT_10yr_rp.tif) | | Nacional | Raster 4326 |
+| 3 | [Inundación 20 Años Período de Retorno](Floods/GT_20yr_rp.tif) | | Nacional | Raster 4326 |
+| 4 | [Inundación 50 Años Período de Retorno](Floods/GT_50yr_rp.tif) | | Nacional | Raster 4326 |
+| 5 | [Inundación 100 Años Período de Retorno](Floods/GT_100yr_rp.tif) | | Nacional | Raster 4326 |
+| 6 | [Inundación 200 Años Período de Retorno](Floods/GT_200yr_rp.tif) | | Nacional | Raster 4326 |
 
 # Honduras
 
