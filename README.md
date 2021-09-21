@@ -18,6 +18,9 @@
 | 3 | [Datos Espaciales OUOT - FACES - UNAH](https://geoportalouot.unah.edu.hn/layers/?limit=10&offset=0) | [FACES-UNAH](https://cienciasespaciales.unah.edu.hn/institutos/ouot/) | Nacional | Visor y Descarga |
 | 4 | [Inundacion 10 Años Periodo de Retorno](Floods/HN.tif) | | Nacional | Raster 4326 |
 | 5 | [Inundacion 20 Años Periodo de Retorno](Floods/HN_20yr_rp.tif) | | Nacional | Raster 4326 |
+| 6 | [Inundacion 50 Años Periodo de Retorno](Floods/HN_50yr_rp.tif) | | Nacional | Raster 4326 |
+| 7 | [Inundacion 100 Años Periodo de Retorno](Floods/HN_100yr_rp.tif) | | Nacional | Raster 4326 |
+| 8 | [Inundacion 200 Años Periodo de Retorno](Floods/HN_200yr_rp.tif) | | Nacional | Raster 4326 |
 
 # Perú
 
