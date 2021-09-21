@@ -27,6 +27,16 @@
 | 7 | [Inundación 100 Años Período de Retorno](Floods/HN_100yr_rp.tif) | | Nacional | Raster 4326 |
 | 8 | [Inundación 200 Años Período de Retorno](Floods/HN_200yr_rp.tif) | | Nacional | Raster 4326 |
 
+# Nicaragua
+
+| # | Servidor | Organización | Alcance | Utilidad |
+| :---: | :--- | :--- | :--- |  :--- | 
+| 1 | [Inundación 10 Años Período de Retorno](Floods/NI_10yr_rp.tif) | | Nacional | Raster 4326 |
+| 2 | [Inundación 20 Años Período de Retorno](Floods/NI_20yr_rp.tif) | | Nacional | Raster 4326 |
+| 3 | [Inundación 50 Años Período de Retorno](Floods/NI_50yr_rp.tif) | | Nacional | Raster 4326 |
+| 4 | [Inundación 100 Años Período de Retorno](Floods/NI_100yr_rp.tif) | | Nacional | Raster 4326 |
+| 5 | [Inundación 200 Años Período de Retorno](Floods/NI_200yr_rp.tif) | | Nacional | Raster 4326 |
+
 # Perú
 
 | # | Servidor | Organización | Alcance | Utilidad |
