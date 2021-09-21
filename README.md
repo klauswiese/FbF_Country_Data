@@ -5,7 +5,7 @@
 
 # FbF Country Data
 
-\| [`Argentina`](#argentina) \| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \| [`Nicaragua`](#nicaragua) \| [`Perú`](#perú) \| [`Otros Datos`](#otros-datos) \| 
+\| [`Argentina`](#argentina) \|  [`Ecuador`](#ecuador) \| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \| [`Nicaragua`](#nicaragua) \| [`Perú`](#perú) \| [`Otros Datos`](#otros-datos) \| 
 
 # Argentina
 
