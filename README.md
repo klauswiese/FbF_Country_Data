@@ -1,6 +1,6 @@
 # FbF_Country_Data
 
-\| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \| [`Nicaragua`](#nicaragua) \| [`Perú`](#perú) \| [`Simbología`](#simbologías) \| 
+\| [`Guatemala`](#guatemala) \| [`Honduras`](#honduras) \| [`Nicaragua`](#nicaragua) \| [`Perú`](#perú) \| [`Otros Datos`](#otros-datos) \| 
 
 # Guatemala
 
