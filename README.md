@@ -62,6 +62,7 @@
 
 # Otros datos
 
-| # | Datos | Fuente | 
-| :---: | :--- | :--- |  
-|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | [QGIS Perú](https://qgis.pe/)|
+| # | Datos | Organización | Alcance/Escala | Utilidad | 
+| :---: | :--- | :--- | :--- | :--- | 
+|1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | [QGIS Perú](https://qgis.pe/)| NA | Descarga |
+|1 |[INFORM Index for Risk Management](https://drmkc.jrc.ec.europa.eu/inform-index/Results/Global) | [JRC]()| Global | |
