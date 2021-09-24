@@ -18,6 +18,11 @@
 | # | Servidor | Organización | Alcance | Utilidad |
 | :---: | :--- | :--- | :--- |  :--- | 
 | 1 | [Datos Espaciales Ecuador](https://sni.gob.ec/coberturas) | SNI | Nacional | |
+| 2 | [Inundación 10 Años Período de Retorno](Floods/ECU_10yr_rp.tif) | | Nacional | Raster 4326 |
+| 3 | [Inundación 20 Años Período de Retorno](Floods/ECU_20yr_rp.tif) | | Nacional | Raster 4326 |
+| 4 | [Inundación 50 Años Período de Retorno](Floods/ECU_50yr_rp.tif) | | Nacional | Raster 4326 |
+| 5 | [Inundación 100 Años Período de Retorno](Floods/ECU_100yr_rp.tif) | | Nacional | Raster 4326 |
+| 6 | [Inundación 200 Años Período de Retorno](Floods/ECU_200yr_rp.tif) | | Nacional | Raster 4326 |
 
 # Guatemala
 
