@@ -15,6 +15,12 @@ Fuentes de datos espaciales relevantes para las Sociedades Nacionales de Cruz Ro
 | :---: | :--- | :--- | :--- |  :--- | 
 | 1 | [Datos Espaciales Argentina](https://www.idera.gob.ar/index.php?option=com_content&view=article&id=335:geoservicios&catid=33:services&Itemid=302) | IDERA | Nacional | Servicios WMS/WFS|
 
+# [Costa Rica](https://www.cruzroja.or.cr/)
+
+| # | Servidor | Organización | Alcance | Utilidad |
+| :---: | :--- | :--- | :--- |  :--- | 
+| 1 | [Datos Espaciales Costa Rica](https://www.snitcr.go.cr/) | SNIT | Nacional | Servicios WMS/WFS|
+
 # [Ecuador](https://www.cruzroja.org.ec/)
 
 | # | Servidor | Organización | Alcance | Utilidad |
