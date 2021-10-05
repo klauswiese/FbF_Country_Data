@@ -86,5 +86,8 @@ Fuentes de datos espaciales relevantes para las Sociedades Nacionales de Cruz Ro
 |7 |[Iowa Environmental Mesonet](https://mesonet.agron.iastate.edu/GIS/) | [Iowa State University](https://mesonet.agron.iastate.edu/GIS/)| Global | Descarga |
 |8 |[DesInventar Sendai](https://www.desinventar.net/index.html) | [UNDRR](https://www.undrr.org/)| Global | Descarga |
 |9 |[Famine Early Warning System](https://fews.net/) | [USAID](https://www.usaid.gov/)| Regional | Descarga |
+|10 |[Gridded Population of the World (GPW), v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4) | [Earth Data - NASA](https://earthdata.nasa.gov/?_gl=1*deehdq*_ga*MjEzNjI2MTYxMC4xNjMzNDQxNjk4*_ga_3H40Z2Q0SP*MTYzMzQ0NDc2MC4yLjEuMTYzMzQ0NDc4Ni4w)| Global | Visor y descarga |
+
+
 
 
