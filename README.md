@@ -78,4 +78,5 @@ Fuentes de datos espaciales relevantes para las Sociedades Nacionales de Cruz Ro
 | # | Datos | Organización | Alcance/Escala | Utilidad | 
 | :---: | :--- | :--- | :--- | :--- | 
 |1 |[Simbologias](https://github.com/qgispe/Symbology-Hub) | [QGIS Perú](https://qgis.pe/)| NA | Descarga |
-|1 |[INFORM Index for Risk Management](https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data/moduleId/1782/id/433/controller/Admin/action/Results) | [European Commision]()| Global | Descarga |
+|2 |[INFORM Index for Risk Management](https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data/moduleId/1782/id/433/controller/Admin/action/Results) | [European Commision]()| Global | Descarga |
+|3 |[Historical Huricane Tracks](https://coast.noaa.gov/hurricanes/#map=4/32/-80) | [NOAA]()| Global | Visor y descarga |
