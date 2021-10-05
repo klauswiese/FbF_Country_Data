@@ -83,3 +83,5 @@ Fuentes de datos espaciales relevantes para las Sociedades Nacionales de Cruz Ro
 |4 |[Climate Engine](http://climateengine.org/) | DRI y UC Merced basado en EE| Global | Visor y descarga |
 |5 |[Center For Hazard and Risk research](https://www.ldeo.columbia.edu/chrr/research/hotspots/coredata.html) | Columbia University| Global | WMS, visor y descarga |
 |6 |[CRED International Disaster Database / EM-DAT](https://public.emdat.be/) | [EM-DAT, CRED / UCLouvain, Brussels, Belgium](https://www.emdat.be/)| Global | Descarga |
+|7 |[Iowa Environmental Mesonet](https://mesonet.agron.iastate.edu/GIS/) | [Iowa State University](https://mesonet.agron.iastate.edu/GIS/)| Global | Descarga |
+
