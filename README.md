@@ -81,7 +81,7 @@ Fuentes de datos espaciales relevantes para las Sociedades Nacionales de Cruz Ro
 |2 |[INFORM Index for Risk Management](https://drmkc.jrc.ec.europa.eu/inform-index/INFORM-Risk/Results-and-data/moduleId/1782/id/433/controller/Admin/action/Results) | [European Commision]()| Global | Descarga |
 |3 |[Historical Huricane Tracks](https://coast.noaa.gov/hurricanes/#map=4/32/-80) | [NOAA](https://www.nhc.noaa.gov/)| Global | Visor y descarga |
 |4 |[Climate Engine](http://climateengine.org/) | DRI y UC Merced basado en EE| Global | Visor y descarga |
-|5 |[Center For Hazard and Risk research](https://www.ldeo.columbia.edu/chrr/research/hotspots/coredata.html) | Columbia University| Global | WMS, visor y descarga |
+|5 |[Center For Hazard and Risk research](https://www.ldeo.columbia.edu/chrr/research/hotspots/coredata.html) | [Columbia University](https://www.columbia.edu/)| Global | WMS, visor y descarga |
 |6 |[CRED International Disaster Database / EM-DAT](https://public.emdat.be/) | [EM-DAT, CRED / UCLouvain, Brussels, Belgium](https://www.emdat.be/)| Global | Descarga |
 |7 |[Iowa Environmental Mesonet](https://mesonet.agron.iastate.edu/GIS/) | [Iowa State University](https://mesonet.agron.iastate.edu/GIS/)| Global | Descarga |
 |8 |[DesInventar Sendai](https://www.desinventar.net/index.html) | [UNDRR](https://www.undrr.org/)| Global | Descarga |
