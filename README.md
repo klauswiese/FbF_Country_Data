@@ -36,7 +36,7 @@ Fuentes de datos espaciales relevantes para las Sociedades Nacionales de Cruz Ro
 
 | # | Servidor | Organización | Alcance | Utilidad |
 | :---: | :--- | :--- | :--- |  :--- | 
-| 1 | [Datos Espaciales Guatemala](https://www.segeplan.gob.gt/nportal/index.php/servicios/sistemas-en-linea/sinit) | SNIT - SEGEPLAN | Nacional | |
+| 1 | [Datos Espaciales Guatemala](http://ideg.segeplan.gob.gt/geoportal/) | SNIT - SEGEPLAN | Nacional | |
 | 2 | [Datos Espaciales Guatemala](https://rmgir.proyectonesoamerica.org/index.php) |  | Regional - CA | |
 | 3 | [Inundación 10 Años Período de Retorno](Floods/GT_10yr_rp.tif) | | Nacional | Raster 4326 |
 | 4 | [Inundación 20 Años Período de Retorno](Floods/GT_20yr_rp.tif) | | Nacional | Raster 4326 |
